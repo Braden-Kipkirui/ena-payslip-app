@@ -4,3 +4,4 @@ reportlab
 PyPDF2
 PyPDF2
 openpyxl
+reportlab
