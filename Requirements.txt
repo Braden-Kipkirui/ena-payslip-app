@@ -1,1 +1,6 @@
-streamlitpandasreportlabPyPDF2fpdfopenpyxl  
+streamlit
+pandas
+reportlab
+PyPDF2
+PyPDF2
+openpyxl
